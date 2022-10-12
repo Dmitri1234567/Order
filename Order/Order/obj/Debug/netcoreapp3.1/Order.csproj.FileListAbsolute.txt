@@ -1,0 +1,14 @@
+E:\проект на c#\Order\Order\bin\Debug\netcoreapp3.1\Order.exe
+E:\проект на c#\Order\Order\bin\Debug\netcoreapp3.1\Order.deps.json
+E:\проект на c#\Order\Order\bin\Debug\netcoreapp3.1\Order.runtimeconfig.json
+E:\проект на c#\Order\Order\bin\Debug\netcoreapp3.1\Order.runtimeconfig.dev.json
+E:\проект на c#\Order\Order\bin\Debug\netcoreapp3.1\Order.dll
+E:\проект на c#\Order\Order\bin\Debug\netcoreapp3.1\Order.pdb
+E:\проект на c#\Order\Order\obj\Debug\netcoreapp3.1\Order.csproj.AssemblyReference.cache
+E:\проект на c#\Order\Order\obj\Debug\netcoreapp3.1\Order.GeneratedMSBuildEditorConfig.editorconfig
+E:\проект на c#\Order\Order\obj\Debug\netcoreapp3.1\Order.AssemblyInfoInputs.cache
+E:\проект на c#\Order\Order\obj\Debug\netcoreapp3.1\Order.AssemblyInfo.cs
+E:\проект на c#\Order\Order\obj\Debug\netcoreapp3.1\Order.csproj.CoreCompileInputs.cache
+E:\проект на c#\Order\Order\obj\Debug\netcoreapp3.1\Order.dll
+E:\проект на c#\Order\Order\obj\Debug\netcoreapp3.1\Order.pdb
+E:\проект на c#\Order\Order\obj\Debug\netcoreapp3.1\Order.genruntimeconfig.cache
